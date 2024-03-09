@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VVw9zT2vCEUhpDgR13+nwpFUFvlW/lGfMLP8qyxDtjD8iCo+XwIwzDXzZrPTOqCywP0s3ub8hAaVzQUvX0ZD/g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\source\\repos\\.NET_Microservices_Kubernetes_Deployment\\Shopping\\Shopping.Client\\Shopping.Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.6\\microsoft.visualstudio.azure.containers.tools.targets.1.19.6.nupkg.sha512"
+  ],
+  "logs": []
+}
