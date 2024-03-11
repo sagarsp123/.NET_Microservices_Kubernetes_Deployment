@@ -6,6 +6,8 @@ C:\Users\Admin\source\repos\.NET_Microservices_Kubernetes_Deployment\Shopping\Sh
 C:\Users\Admin\source\repos\.NET_Microservices_Kubernetes_Deployment\Shopping\Shopping.Client\bin\Debug\net8.0\Shopping.Client.runtimeconfig.json
 C:\Users\Admin\source\repos\.NET_Microservices_Kubernetes_Deployment\Shopping\Shopping.Client\bin\Debug\net8.0\Shopping.Client.dll
 C:\Users\Admin\source\repos\.NET_Microservices_Kubernetes_Deployment\Shopping\Shopping.Client\bin\Debug\net8.0\Shopping.Client.pdb
+C:\Users\Admin\source\repos\.NET_Microservices_Kubernetes_Deployment\Shopping\Shopping.Client\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Admin\source\repos\.NET_Microservices_Kubernetes_Deployment\Shopping\Shopping.Client\obj\Debug\net8.0\Shopping.Client.csproj.AssemblyReference.cache
 C:\Users\Admin\source\repos\.NET_Microservices_Kubernetes_Deployment\Shopping\Shopping.Client\obj\Debug\net8.0\Shopping.Client.Properties.Resources.resources
 C:\Users\Admin\source\repos\.NET_Microservices_Kubernetes_Deployment\Shopping\Shopping.Client\obj\Debug\net8.0\Shopping.Client.csproj.GenerateResource.cache
 C:\Users\Admin\source\repos\.NET_Microservices_Kubernetes_Deployment\Shopping\Shopping.Client\obj\Debug\net8.0\Shopping.Client.GeneratedMSBuildEditorConfig.editorconfig
@@ -26,6 +28,7 @@ C:\Users\Admin\source\repos\.NET_Microservices_Kubernetes_Deployment\Shopping\Sh
 C:\Users\Admin\source\repos\.NET_Microservices_Kubernetes_Deployment\Shopping\Shopping.Client\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\Admin\source\repos\.NET_Microservices_Kubernetes_Deployment\Shopping\Shopping.Client\obj\Debug\net8.0\scopedcss\bundle\Shopping.Client.styles.css
 C:\Users\Admin\source\repos\.NET_Microservices_Kubernetes_Deployment\Shopping\Shopping.Client\obj\Debug\net8.0\scopedcss\projectbundle\Shopping.Client.bundle.scp.css
+C:\Users\Admin\source\repos\.NET_Microservices_Kubernetes_Deployment\Shopping\Shopping.Client\obj\Debug\net8.0\Shopping.A7D506CE.Up2Date
 C:\Users\Admin\source\repos\.NET_Microservices_Kubernetes_Deployment\Shopping\Shopping.Client\obj\Debug\net8.0\Shopping.Client.dll
 C:\Users\Admin\source\repos\.NET_Microservices_Kubernetes_Deployment\Shopping\Shopping.Client\obj\Debug\net8.0\refint\Shopping.Client.dll
 C:\Users\Admin\source\repos\.NET_Microservices_Kubernetes_Deployment\Shopping\Shopping.Client\obj\Debug\net8.0\Shopping.Client.pdb

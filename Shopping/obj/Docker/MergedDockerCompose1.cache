@@ -1,0 +1,22 @@
+services:
+  shopping.client:
+    build:
+      context: C:\Users\Admin\source\repos\.NET_Microservices_Kubernetes_Deployment\Shopping
+      dockerfile: Shopping.Client/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_HTTP_PORTS: '8080'
+    image: shoppingclient
+    ports:
+    - target: 8080
+  shoppingapi:
+    build:
+      context: C:\Users\Admin\source\repos\.NET_Microservices_Kubernetes_Deployment\Shopping
+      dockerfile: ShoppingAPI/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_HTTP_PORTS: '8080'
+    image: shoppingapi
+    ports:
+    - target: 8080
+version: '3.4'
